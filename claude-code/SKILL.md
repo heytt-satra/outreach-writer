@@ -1,33 +1,31 @@
 ﻿---
-name: outreach-writer
-description: Writes high-converting cold emails, LinkedIn DMs, and connection notes. The output sounds like a real person, not marketing copy. Use this skill whenever someone wants to write a cold email, LinkedIn DM, outreach message, connection request, or any message to a stranger trying to get a meeting, client, job, or partnership. Also use when someone says "write me a DM to send to X", "help me reach out to this person", "I want to email someone about Y", or "write me a connection note" even if they do not say "cold email" explicitly. Use it for job hunting outreach too.
+name: Outreach Writer
+description: Write cold emails, LinkedIn DMs, and connection notes for jobs, clients, or partnerships. Pain-first structure, specific proof, one CTA. Use when reaching out to any stranger or new contact.
 ---
 
-# Outreach Writer
+## Overview
 
-You write cold emails, LinkedIn DMs, and connection notes that get responses.
+This skill writes high-converting outreach messages. It covers cold emails, LinkedIn connection notes, and LinkedIn DMs. The output sounds like a real person wrote it. No flattery. No marketing language. No em dashes.
 
-The goal is never to impress. It is to be understood. Short sentences. Plain words. Specific details.
-
-Never use em dashes. Use a comma, a period, or a new sentence instead.
+Use this skill whenever someone needs to reach out to a stranger to find a job, get a client, build a partnership, or start a conversation with someone they do not know yet.
 
 ---
 
 ## What to ask first
 
-If the user has not already given it, ask for this before writing anything:
+If the user has not already given it, ask for the following before writing anything.
 
-About the sender:
-- What have you built or shipped? Products, features, companies, results with real numbers if you have them.
+**About the sender:**
+- What have you built or shipped? Products, features, companies, results with real numbers if possible.
 - What do you actually do? One sentence, plain English.
 - Are you looking for clients, a job, a partnership, or something else?
 
-About the target:
+**About the target:**
 - Who is this going to? Name, company, role.
 - What do you know about them specifically? A post they wrote, a product they launched, a problem their company is facing, something you genuinely noticed.
 - What is the pain they live with every day?
 
-Format:
+**Format needed:**
 - Cold email
 - LinkedIn connection note (300 character hard limit)
 - LinkedIn DM (sent 1-2 days after they accept)
@@ -42,34 +40,60 @@ Once you have enough to work with, write the message. Do not wait for perfect in
 
 Pick ONE of these three types. Do not mix them.
 
-Type 1: Name their pain
+**Type 1: Name their pain**
 Say out loud the thing they deal with every day that no one says to their face.
-Example: "Your engineers ship, your customers churn"
 
-Type 2: Open a fear loop
+Example: `Your engineers ship, your customers churn`
+
+**Type 2: Open a fear loop**
 Describe a scenario they dread. Leave it open. Do not resolve it in the subject line.
-Example: "What happens when your top dev leaves"
 
-Type 3: Hold up a mirror
+Example: `What happens when your top dev leaves`
+
+**Type 3: Hold up a mirror**
 Make a sharp observation about their business that makes them wonder how you noticed.
-Example: "Noticed your pricing page changed three times this month"
 
-### Email body structure
+Example: `Noticed your pricing page changed three times this month`
 
-Lines 1-3: Their world
-Say something specific about them. What they do. What they built. What you noticed. No flattery. Observation only. This shows you did real homework, not a merge tag swap.
+---
 
-Lines 4-6: The pain
+### Email body
+
+**Lines 1-3: Their world**
+Say something specific about them. What they do, what they built, what you noticed. No flattery. Observation only. This proves you did real homework and are not sending a template.
+
+**Lines 4-6: The pain**
 Name the exact problem they are living with. Use the words they would use, not marketing language. Make them feel understood before you have mentioned yourself once. If they read this and think "how did this person know that," you are on track.
 
-Line 7: What you do
+**Line 7: What you do**
 One line. Not a product description. Say what you remove from their life.
 
-Lines 8-10: Proof
+**Lines 8-10: Proof**
 Two or three specific names or numbers. No vague claims. Pick proof that is relevant to this specific person, not your full portfolio.
 
-Line 11: CTA
+**Line 11: CTA**
 One ask. The lowest friction version possible. A 15-minute call, a quick reply, a yes or no. Stop right after it. Nothing after the CTA.
+
+**Example structure:**
+```
+Subject: [mirror / pain / fear loop]
+
+[Their world - what they built, what you noticed]
+[More observation]
+[One more specific detail]
+
+[The pain they live with - in their words]
+[Why it keeps happening]
+[The cost of it]
+
+[What you remove from their life - one line]
+
+[Proof point 1 - name or number]
+[Proof point 2 - name or number]
+[Proof point 3 - optional]
+
+[One ask - lowest friction possible]
+```
 
 ---
 
@@ -77,18 +101,18 @@ One ask. The lowest friction version possible. A 15-minute call, a quick reply, 
 
 300 characters max. No room to waste.
 
-Open with one specific thing you noticed about them. Then one reason connecting makes sense. No pitch. No ask. Just enough to make them curious.
+Open with one specific thing you noticed about them. Then one reason connecting makes sense. No pitch, no ask. Just enough to make them curious.
 
-Example:
-"Saw your post on onboarding drop-off last week. Building something in that space. Would value the connection."
+**Example:**
+`Saw your post on onboarding drop-off last week. Building something in that space. Would value the connection.`
 
 ---
 
 ## LinkedIn DM
 
-Send 1-2 days after they accept. Not immediately.
+Send 1-2 days after they accept the connection. Not immediately.
 
-Structure:
+**Structure:**
 - Open with something specific you noticed about them (observation, not compliment)
 - Name the pain they are living with right now
 - One to two sentences on what you do
@@ -97,9 +121,20 @@ Structure:
 
 Keep it under 150 words. Leave room for them to respond.
 
+**Example:**
+```
+Noticed your team shipped three major features last quarter but your G2 reviews keep mentioning onboarding confusion.
+
+That gap between what you build and what users actually get is brutal to close when support tickets are already piling up.
+
+I help teams shrink that gap. Built the onboarding system at Deel that cut time-to-value from 14 days to 3. Did the same for Loom.
+
+Worth a quick conversation?
+```
+
 ---
 
-## If this is job hunting outreach
+## Job hunting outreach
 
 Position the sender as broader than one role. Do not let them come across as just an engineer or just a designer.
 
@@ -115,7 +150,7 @@ Do not say "I am looking for a job." Say what you can do for the company, then l
 
 ---
 
-## Tone rules that apply to everything
+## Rules that apply to everything
 
 - Plain English. No word chosen to impress.
 - No em dashes. Use commas or short new sentences instead.
@@ -126,7 +161,7 @@ Do not say "I am looking for a job." Say what you can do for the company, then l
 
 ---
 
-## The thinking behind this
+## The idea behind this
 
 The pain is the pitch. If you can name the exact problem someone is living with, they feel understood. People respond to people who understand them before asking for anything.
 
