@@ -1,4 +1,4 @@
-﻿---
+---
 name: Outreach Writer
 description: Write cold emails, LinkedIn DMs, and connection notes for jobs, clients, or partnerships. Pain-first structure, specific proof, one CTA. Use when reaching out to any stranger or new contact.
 ---
@@ -155,7 +155,7 @@ Do not say "I am looking for a job." Say what you can do for the company, then l
 - Plain English. No word chosen to impress.
 - No em dashes. Use commas or short new sentences instead.
 - Specific over general. "Reduced churn by 18% in 60 days" beats "improved retention."
-- Observations over compliments. "Noticed your API docs have no code examples" beats "love what you're building."
+- Observations over compliments. "Noticed your API docs have no code examples" beats "love what you are building."
 - One ask at the end. Not two. Not a soft ask followed by a harder one.
 - Never start with "I hope this finds you well" or any filler opener.
 
